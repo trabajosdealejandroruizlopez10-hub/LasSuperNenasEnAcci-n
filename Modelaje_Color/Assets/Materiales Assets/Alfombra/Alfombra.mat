@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8235099749742125837
+--- !u!114 &-8487446180357091387
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,14 +20,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ventana
+  m_Name: Alfombra
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
-  - _OCCLUSIONMAP
   - _PARALLAXMAP
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -43,11 +42,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 4119b1eaca8f9434e8d56e6ab17251e3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6680dfd74dea335499d8c05ea46bb509, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 78830478dcd43204a97f76242cb7f4de, type: 3}
+        m_Texture: {fileID: 2800000, guid: faf01aef1ffe2f64885bcbb5f8f84751, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -67,19 +66,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 4119b1eaca8f9434e8d56e6ab17251e3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6680dfd74dea335499d8c05ea46bb509, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 0d874040a58e14643bcaf578775c3007, type: 3}
+        m_Texture: {fileID: 2800000, guid: f5983859de280cd4cbfa731e1c13aac9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 6cf5686a63e49b643ab247fd02461a58, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: fcc11195d91f1aa41a6bdaf78ac1d570, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9dd73d1af7fac214181e42a163de8ffd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -133,8 +132,8 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 1, g: 0.9037736, b: 0.9037736, a: 1}
+    - _Color: {r: 1, g: 0.90377355, b: 0.90377355, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []

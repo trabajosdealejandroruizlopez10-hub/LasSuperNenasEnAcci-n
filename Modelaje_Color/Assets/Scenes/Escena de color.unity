@@ -1537,6 +1537,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a87b3523502cc1b449fca7b4b8dc163d, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a9704119c8db474da301060fa4ba2a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
       propertyPath: m_Name
       value: Vela 2 (3)
@@ -1877,6 +1885,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a87b3523502cc1b449fca7b4b8dc163d, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a9704119c8db474da301060fa4ba2a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
       propertyPath: m_Name
       value: Vela 2 (1)
@@ -4071,6 +4087,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a87b3523502cc1b449fca7b4b8dc163d, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a9704119c8db474da301060fa4ba2a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
       propertyPath: m_Name
       value: Vela 2 (2)
@@ -5013,6 +5037,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a87b3523502cc1b449fca7b4b8dc163d, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a9704119c8db474da301060fa4ba2a6, type: 2}
     - target: {fileID: 919132149155446097, guid: 579be9b2f1fea8c4aa8025b1365ba9a8, type: 3}
       propertyPath: m_Name
       value: Vela 2
@@ -6645,6 +6677,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 44e88bb4153e42345a06b28f12692fa6, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fe995cf4cefa9a44ab2f41855f0e594f, type: 2}
     - target: {fileID: 919132149155446097, guid: 44e88bb4153e42345a06b28f12692fa6, type: 3}
       propertyPath: m_Name
       value: mnesita de noche
